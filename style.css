@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(to left, #0BD7F6D6, #003EFFC2);
+}
+#tittle{
+  color:#9EFF00;
+ text-align: center;
+ font-family: Montserrat;
+ font-weight: 100;
+ font-style:normal;
+}
+.LoadScreen{
+  text-align: center;
+}
+#play{
+  margin: 20px;
+  height: 50px;
+  width:  200px;
+  color: Black;
+  background-color: #91E705;
+  border:3px solid #598315;
+  border-radius: 19px;
+  
+}
